@@ -5,8 +5,3 @@
 - 📫 How to reach me: If you wanna collaborate with me in some projects, you can contact me at: Discord: Hayden el Furro#0001
                                                                                                 Twitter: @medrano00
                                                                                                 Mail: dirtyguitarist@nothinband.com
-
-<!---
-medrano00/medrano00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
