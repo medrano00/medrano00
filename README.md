@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on... idk what to put here lol.
 - 📫 How to reach me: If you wanna collaborate with me in some projects, you can contact me at: Discord: Hayden el Furro#0001
                                                                                                 Twitter: @medrano00
-                                                                                                Mail: dirtyguitarist@nothinband.com
+                                                                                                Mail: dirtyguitarist@gmail.com
                                                                                                 LinkedIn: medrano00
