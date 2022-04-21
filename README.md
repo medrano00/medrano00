@@ -1,8 +1,8 @@
-- 👋 Hi, I'm Fabián, aka Hayden el Furro in Twitch. 20 y/o. He//Him but also likes She//Her.
-- 👀 I’m interested in learning more about programming, develop my first programs and, somehow, make the world better.
-- 🌱 I’m currently learning SQL, Python and Java. 
-- 💞️ I’m looking to collaborate on... idk what to put here lol.
-- 📫 How to reach me: If you wanna collaborate with me in some projects, you can contact me at: Discord: Hayden el Furro#0001
-                                                                                                Twitter: @medrano00
-                                                                                                Mail: dirtyguitarist@gmail.com
-                                                                                                LinkedIn: medrano00
+- 👋 Hi, I'm Fabián, but you can call me Fabo or Hayden. I'm 21 y/o and my pronouns are He/They.
+- 👀 I’m interested in learning more about my future jobs, develop my first programs as a programmer and, somehow, make the world better.
+- 🌱 I’m currently studying Programming, but I'm on a quest to dominate as much things as possible.
+- 💞️ I’m looking to collaborate on translating text from English to Spanish and vice versa, also code some programs and web pages.
+- 📫 How to reach me: If you wanna collaborate with me in some projects, you can contact me at:
+Discord: dirtyguitarist#4257
+Emails: dirtyguitarist@gmail.com / fabia.espinozam@duocuc.cl
+Twitter: @medrano00_
