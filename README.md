@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on translating text from English to Spanish and vice versa, also code some programs and web pages.
 - 📫 How to reach me: If you wanna collaborate with me in some projects, you can contact me at:
 Discord: dirtyguitarist#4257
-Emails: dirtyguitarist@gmail.com / fabia.espinozam@duocuc.cl
-Twitter: @medrano00_
+Contact Email (For work only, please): faboespinozam@icloud.com
+LinkedIn: https://linkedin.com/in/medrano00/
